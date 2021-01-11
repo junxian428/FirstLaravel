@@ -30,8 +30,9 @@ mix.disableNotifications();
 https://medium.com/@irsyadadl/how-i-turn-off-the-notification-laravel-mix-build-successful-81463cbe2ae6
 
 
-Bug Fixed:
 
+
+___________________________________________________________________________________
 ### FIX ISSUES ###
 FIX/TIP (4:15) - echo $PATH does not work under windows (prompt). Instead, you must try just "path" (remove the quotations) on cmd/prompt.
 
