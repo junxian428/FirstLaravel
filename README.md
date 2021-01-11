@@ -52,3 +52,8 @@ sudo apt-get install php7.4-sqlite
 
 
 Learning Resources: https://youtu.be/ImtZ5yENzgE
+
+
+Graphics User Interface:
+
+![alt text](https://user-images.githubusercontent.com/58724748/104244843-3115a480-549e-11eb-9920-23fc3ed60db2.png)
