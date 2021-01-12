@@ -1,13 +1,3 @@
-# FirstLaravel
-
-Laravel PHP framework 
-1. Learning Website
-
-https://youtu.be/ImtZ5yENzgE
-
-
-
-
 Debug
 _______________________________________________________________________________________________
 Issues:
